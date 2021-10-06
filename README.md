@@ -11,5 +11,5 @@
 
 <p  align="center">
 <a href= "https://www.linkedin.com/in/aditipala/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "http://www.github.com/aditinpala"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "http://www.github.com/aditinpala"><img src="https://img.icons8.com/windows/32/000000/github.png"/></a>
 </p>
