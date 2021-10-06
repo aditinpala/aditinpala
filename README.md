@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<--
-
 - 🔭 I’m currently working on research in Big Data Sensitivity & Misinformation Detection.
 - 🌱 I’m currently learning ML & DL classifiers and exploring how they can be used effectively in various domains
 - 👯 I’m looking to collaborate on any ML project.
@@ -9,4 +7,3 @@
 - 💬 Ask me about ML, Data Science Concepts, Big Data or anything else - it'll help me find out as well!
 - 📫 How to reach me: Through my LinkedIn: www.linkedin.com/in/aditipala
 - ⚡ Fun fact: I am always 20 minutes early for everything :))
--->
