@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**aditinpala/aditinpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<--
 
 - 🔭 I’m currently working on research in Big Data Sensitivity & Misinformation Detection.
 - 🌱 I’m currently learning ML & DL classifiers and exploring how they can be used effectively in various domains
