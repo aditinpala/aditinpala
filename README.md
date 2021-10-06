@@ -1,4 +1,6 @@
 ### Hi there 👋
+[1]: http://www.github.com/aditinpala
+[2]: https://www.linkedin.com/in/aditipala
 
 - 🔭 I’m currently working on research in Big Data Sensitivity & Misinformation Detection.
 - 🌱 I’m currently learning ML & DL classifiers and exploring how they can be used effectively in various domains
