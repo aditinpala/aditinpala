@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on research in Big Data Sensitivity & Misinformation Detection.
+- 🔭 I’m currently working on research in Big Data Sensitivity Anonimization & Misinformation Detection.
 - 🌱 I’m currently learning ML & DL classifiers and exploring how they can be used effectively in various domains
 - 👯 I’m looking to collaborate on any ML project.
 - 🤔 I’m looking for help with understanding breakthroughs in Supply Chain Management & Data Science Applications 
