@@ -2,7 +2,7 @@
 
 
 - 📝Grad student at Syracuse University pursuing MS in Applied Data Science
-- 👨🏻‍💻I’m currently working as a Data Analyst at iConsult Collaborative, Syracuse University.
+- 👨🏻‍💻I’m currently working on Big Data, NLP & Text Mining projects at Syracuse University!
 - 📫 How to reach me: Through my LinkedIn: www.linkedin.com/in/aditipala
 - ⚡ Fun fact: I am always 20 minutes early for everything :))
 
